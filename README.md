@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ullahsalik
 - 👀 I’m interested in distributed system development
 - 🌱 I’m currently learning K8s
-- 💞️ I’m looking to collaborate on building LambdaTest
+- 💞️ I’m currently collaborated in building LambdaTest
 - 📫 How to reach me ...
 
 <!---
